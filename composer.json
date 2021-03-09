@@ -1,5 +1,5 @@
 {
-  "name": "carloscabo/colz",
+  "name": "pushparaj/colz",
   "type": "library",
   "description": "rgb / hsl / hsb / hex color conversion library",
   "keywords": ["Colz","color"],

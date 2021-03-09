@@ -1,5 +1,5 @@
 ## Usage
-A color conversion library in PHP Forked for learning purpose , use origignal repo https://github.com/carloscabo/colz-php
+Forked from  https://github.com/carloscabo/colz-php, use origignal repo
 
 Create new color object.
 

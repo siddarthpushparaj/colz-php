@@ -3,7 +3,7 @@
   "type": "library",
   "description": "rgb / hsl / hsb / hex color conversion library",
   "keywords": ["Colz","color"],
-  "homepage": "https://github.com/husl-colors/husl-php",
+  "homepage": "https://github.com/carloscabo/colz-php",
   "minimum-stability": "dev",
   "authors": [
     {
